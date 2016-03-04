@@ -1,0 +1,24 @@
+jerry-PC
+UDP: [10.1.120.142]:161->[0.0.0.0]:0
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:1:13:42.50
+SNMPv2-MIB::snmpTrapOID.0 IF-MIB::linkDown
+IF-MIB::ifIndex.2 2
+IF-MIB::ifIndex.2 2
+jerry-PC
+UDP: [10.1.120.142]:161->[0.0.0.0]:0
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:1:15:25.27
+SNMPv2-MIB::snmpTrapOID.0 IF-MIB::linkDown
+IF-MIB::ifIndex.2 2
+IF-MIB::ifIndex.2 2
+jerry-PC
+UDP: [10.1.120.142]:161->[0.0.0.0]:0
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:2:45:20.04
+SNMPv2-MIB::snmpTrapOID.0 IF-MIB::linkDown
+IF-MIB::ifIndex.2 2
+IF-MIB::ifIndex.2 2
+jerry-PC
+UDP: [10.1.120.142]:161->[0.0.0.0]:0
+DISMAN-EVENT-MIB::sysUpTimeInstance 0:2:49:00.10
+SNMPv2-MIB::snmpTrapOID.0 IF-MIB::linkDown
+IF-MIB::ifIndex.2 2
+IF-MIB::ifIndex.2 2
